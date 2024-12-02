@@ -131,7 +131,7 @@ class _carpageState extends State<carpage> {
                   width: 350,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(5),
-                    border add:Border.all(
+                    border:Border.all(
                       color: Colors.grey,
                     ),
                     //color: Colors.grey
